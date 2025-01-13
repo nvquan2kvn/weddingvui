@@ -80,7 +80,7 @@ const scrollToTop = () => {
       <div class="subtitle">Nguyễn Trường 💘 Nguyễn Vui</div>
       <div class="title">Trân trọng kính mời
       </div>
-      <div class="subtitle-tgl">Ngày 05 tháng 01 năm 2025</div>
+      <div class="subtitle-tgl">Ngày 09 tháng 02 năm 2025</div>
       <div class="text">
       </div>
       <div class="button-welcomeModal flex items-center justify-center" @click="toggleModal">
@@ -281,7 +281,7 @@ body {
   overflow: hidden;
   position: fixed;
   background-position: center;
-  background-image: -webkit-image-set('~/assets/images/banner.jpg');
+  background-image: -webkit-image-set('~/assets/images/final/4.jpg');
   background-color: rgb(241 128 128 / 80%);
   background-repeat: no-repeat;
   background-size: cover;
@@ -290,7 +290,7 @@ body {
 
 @media (max-width: 768px) {
   .coverImg {
-    background-image: -webkit-image-set('~/assets/images/home.jpg');
+    background-image: -webkit-image-set('~/assets/images/final/12.jpg');
   }
 }
 

@@ -10,10 +10,10 @@
         <div class="w-full md:w-1/2 mx-auto">
             <div class="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0 md:space-x-4">
                 <div class="bg-white bg-opacity-75 p-4 rounded-lg shadow-lg flex flex-col items-center text-center">
-                    <img src="~/assets/images/4.jpg" alt="Anh Quân"
+                    <img src="~/assets/images/final/3.jpg" alt="Nguyễn Trường"
                         class="rounded mb-5 transition-transform duration-300 hover:scale-105">
                     <h1 class="text-4xl font-bold mb-4 font-dancing transition-transform duration-300 hover:scale-110">
-                        Anh Quân</h1>
+                        Nguyễn Trường</h1>
                     <div class="flex space-x-2 mb-4">
                         <a class="animate-abc" href="https://www.facebook.com/nvquan.official" target="_blank">
                             <svg width="32px" height="32px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
@@ -70,21 +70,21 @@
                         </a>
                     </div>
                     <div class="font-quicksand transition-transform duration-300 hover:scale-105">
-                        <p>Con ông: <span class="font-bold">Nguyễn Văn Xuân</span></p>
-                        <p>Con bà: <span class="font-bold">Phạm Thị Ngọc</span></p>
+                        <p>Con ông: <span class="font-bold">Nguyễn Mạnh Chức</span></p>
+                        <p>Con bà: <span class="font-bold">Hoàng Thị Thanh Xuân</span></p>
                     </div>
                     <p class="mt-2 font-quicksand transition-transform duration-300 hover:scale-105">
-                        Tư gia: Thôn Đồng Luồng, Xuân Phú,<br> Thọ Xuân, Thanh Hóa.
+                        Tư gia: Đội 4 - An Lạc<br> Yên Khánh - Ý Yên - Nam Định.
                     </p>
                 </div>
                 <div class="bg-white bg-opacity-75 p-4 rounded-lg shadow-lg flex flex-col items-center text-center">
-                    <img src="~/assets/images/bride.jpg" alt="Minh Ngọc"
+                    <img src="~/assets/images/final/13.jpg" alt="Nguyễn Vui"
                         class="rounded mb-5 transition-transform duration-300 hover:scale-105">
                     <h1 class="text-4xl font-bold mb-4 font-dancing transition-transform duration-300 hover:scale-110">
-                        Minh Ngọc
+                        Nguyễn Vui
                     </h1>
                     <div class="flex space-x-2 mb-4">
-                        <a class="animate-abc" href="https://www.facebook.com/minhngoc1301" target="_blank">
+                        <a class="animate-abc" href="https://www.facebook.com/nguyen.vui.729472" target="_blank">
                             <svg width="32px" height="32px" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
                                 fill="none">
                                 <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -99,7 +99,7 @@
                                 </g>
                             </svg>
                         </a>
-                        <a class="animate-abc" href="https://zalo.me/0981256421" target="_blank">
+                        <a class="animate-abc" href="https://zalo.me/0376385935" target="_blank">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="32" height="32"
                                 viewBox="0 0 48 48">
                                 <path fill="#2962ff"
@@ -121,7 +121,7 @@
                             </svg>
 
                         </a>
-                        <a class="animate-abc" href="tel:0981256421" target="_blank">
+                        <a class="animate-abc" href="tel:0376385935" target="_blank">
                             <svg fill="#000000" width="32px" height="32px" viewBox="0 0 24 24" id="phone"
                                 data-name="Flat Line" xmlns="http://www.w3.org/2000/svg" class="icon flat-line">
                                 <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -139,11 +139,11 @@
                         </a>
                     </div>
                     <div class="font-quicksand transition-transform duration-300 hover:scale-105">
-                        <p>Con ông: <span class="font-bold">Phan Xuân Hồng</span></p>
-                        <p>Con bà: <span class="font-bold">Trịnh Thị Lợi</span></p>
+                        <p>Con ông: <span class="font-bold">Nguyễn Tiến Bốn</span></p>
+                        <p>Con bà: <span class="font-bold">Nguyễn Thị Hương</span></p>
                     </div>
                     <p class="mt-2 font-quicksand transition-transform duration-300 hover:scale-105">
-                        Tư gia: Thôn 16b, Thọ Xương,<br> Thọ Xuân, Thanh Hóa.
+                        Tư gia: Xóm Bồ Đề - Hưng Thượng<br> Yên Phong - Ý Yên - Nam Định.
                     </p>
                 </div>
             </div>

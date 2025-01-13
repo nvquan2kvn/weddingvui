@@ -3,26 +3,26 @@
         <a-carousel autoplay>
             <div>
                 <div class="flex justify-center">
-                    <img src="~/assets/images/final/11.jpg" alt="Banner Image" class="hidden md:block md:h-[90vh] w-full">
-                    <img src="~/assets/images/final/8.jpg" alt="Banner Image" class="block md:hidden w-full">
+                    <img src="~/assets/images/final/4.jpg" alt="Banner Image" class="hidden md:block md:h-[90vh] w-full">
+                    <img src="~/assets/images/final/1.jpg" alt="Banner Image" class="block md:hidden w-full">
                 </div>
             </div>
             <div>
                 <div class="flex justify-center">
                     <img src="~/assets/images/final/18.jpg" alt="Banner Image" class="hidden md:block md:h-[90vh] w-full">
-                    <img src="~/assets/images/final/4.jpg" alt="Banner Image" class="block md:hidden w-full">
+                    <img src="~/assets/images/final/5.jpg" alt="Banner Image" class="block md:hidden w-full">
                 </div>
             </div>
             <div>
                 <div class="flex justify-center">
-                    <img src="~/assets/images/final/11.jpg" alt="Banner Image" class="hidden md:block md:h-[90vh] w-full">
-                    <img src="~/assets/images/9.jpg" alt="Banner Image" class="block md:hidden w-full">
+                    <img src="~/assets/images/final/4.jpg" alt="Banner Image" class="hidden md:block md:h-[90vh] w-full">
+                    <img src="~/assets/images/final/12.jpg" alt="Banner Image" class="block md:hidden w-full">
                 </div>
             </div>
             <div>
                 <div class="flex justify-center">
                     <img src="~/assets/images/final/18.jpg" alt="Banner Image" class="hidden md:block md:h-[90vh] w-full">
-                    <img src="~/assets/images/8.jpg" alt="Banner Image" class="block md:hidden w-full">
+                    <img src="~/assets/images/final/20.jpg" alt="Banner Image" class="block md:hidden w-full">
                 </div>
             </div>
         </a-carousel>
@@ -32,9 +32,9 @@
                 Happy Wedding
             </h1>
             <h3 class="md:text-6xl text-4xl mt-2 transition-transform duration-300 hover:scale-110 font-dancing">
-                Anh Quân & Minh Ngọc
+                Nguyễn Trường & Nguyễn Vui
             </h3>
-            <p class="md:text-lg text-[14px] mt-10 font-mulish md:font-bold">04/01/2025 Nhà Gái - 05/01/2025 Nhà Trai</p>
+            <p class="md:text-lg text-[14px] mt-10 font-mulish md:font-bold">08/02/2025 Nhà Gái - 09/02/2025 Nhà Trai</p>
             <div class="md:text-5xl text-3xl mt-5 flex justify-center space-x-12">
                 <!-- <p class="text-2xl font-bold">Thời gian còn lại:</p> -->
                 <p class=""> {{ countdown.days }} <br> <span class="font-sriracha md:text-xl text-[16px]">Ngày</span> </p>
@@ -62,7 +62,7 @@ const countdown = ref({
     minutes: 0,
     seconds: 0,
 });
-const targetDate = new Date('2025-01-05T10:00:00').getTime();
+const targetDate = new Date('2025-02-09T10:00:00').getTime();
 
 // Scroll to Guestbook section
 const guestbookSection = ref<HTMLElement | null>(null);

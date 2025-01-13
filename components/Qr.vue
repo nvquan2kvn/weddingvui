@@ -4,7 +4,7 @@
             class="md:text-7xl text-5xl text-white font-bold mb-4 text-center font-dancing drop-shadow-lg transition-transform duration-300 hover:scale-110">
             Hộp mừng cưới</h1>
         <p class="md:text-lg text-center drop-shadow-lg text-white my-5">Cảm ơn tất cả các tình cảm mà mọi người đã dành
-            cho Quân & Ngọc</p>
+            cho Trường & Vui</p>
         <button @click="showModal = true" class="bg-[#e0dfbea1] mt-10 px-4 py-2 rounded-2xl border abc">
             <svg viewBox="0 0 1024 1024" class="icon md:w-20 w-16" version="1.1" xmlns="http://www.w3.org/2000/svg"
                 fill="#000000">

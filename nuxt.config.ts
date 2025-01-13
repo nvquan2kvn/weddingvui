@@ -11,16 +11,16 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'Quân 💘 Ngọc', // Change the title here
+      title: 'Trường 💘 Vui', // Change the title here
       link: [{ rel: 'icon', type: 'image/png', href: '/images/2550361.png' }],
       script: [
         { src: '/js/index.js', type: 'text/javascript' },
       ],
       meta: [
-        { hid: 'og:title', property: 'og:title', content: 'Anh Quân 💘 Minh Ngọc' },
-        { hid: 'og:description', property: 'og:description', content: 'Quân và Ngọc hân hạnh mời bạn tham dự ngày cưới.' },
-        { hid: 'og:image', property: 'og:image', content: '/images/qn.jpg' },
-        { hid: 'og:url', property: 'og:url', content: 'https://quan-ngoc-wedding.vercel.app/' },
+        { hid: 'og:title', property: 'og:title', content: 'Nguyễn Trường 💘 Nguyễn Vui' },
+        { hid: 'og:description', property: 'og:description', content: 'Trường và Vui hân hạnh mời bạn tham dự ngày cưới.' },
+        { hid: 'og:image', property: 'og:image', content: '/images/tv.jpg' },
+        { hid: 'og:url', property: 'og:url', content: 'https://truong-vui-wedding.vercel.app/' },
         { hid: 'og:type', property: 'og:type', content: 'website' }
       ]
     },

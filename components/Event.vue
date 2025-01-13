@@ -84,7 +84,7 @@
 <!--            Khối sự kiện: Nạp tài-->
           <div
               class="bg-white bg-opacity-75 p-5 hover:bg-slate-100 rounded-lg shadow-lg md:col-span-2 relative md:w-1/2 mx-auto">
-            <h2 class="md:text-2xl text-[18px] font-bold mb-4">Lễ nạp tài</h2>
+            <h2 class="md:text-2xl text-[18px] font-bold mb-4">Lễ ăn hỏi</h2>
             <img src="~/assets/images/naptai.jpg" alt="Lễ nạp tài"
                  class="absolute -top-5 right-5 w-2/5 object-cover rounded-lg mb-4 transition-transform duration-300 hover:scale-105">
             <p class="md:text-[16px] text-[12px] font-mulish mb-2 flex items-center">
@@ -135,7 +135,7 @@
                   </g>
                 </g>
               </svg>
-              14:00 Thứ 6 <br> Ngày 03/01/2025
+              08:00 Thứ 7 <br> Ngày 08/02/2025
             </p>
             <p class="md:text-[16px] text-[12px] font-mulish mb-4 flex items-center">
               <svg class="w-8 h-8 mr-2 icon" viewBox="0 0 1024 1024" version="1.1"
@@ -172,11 +172,11 @@
                       fill="#333333"></path>
                 </g>
               </svg>
-              Thôn 16b, Thọ Xương, Thọ Xuân, Thanh Hóa.
+              Xóm Bồ Đề - Hưng Thượng<br> Yên Phong - Ý Yên - Nam Định.
             </p>
             <div class="flex justify-between md:text-[16px] text-[12px] font-mulish">
               <button @click="scrollToConfirm" class="hover:bg-blue-600 bg-blue-500 text-white px-4 py-2 rounded">Xác nhận tham dự</button>
-              <a target="_blank" href="https://maps.app.goo.gl/zwPjqF3UdAaigq687"
+              <a target="_blank" href="https://maps.app.goo.gl/8SqmTUmR8D3XxjJT6"
                  class="hover:bg-green-600 bg-green-500 text-white px-4 py-2 rounded">Xem bản đồ</a>
             </div>
           </div>
@@ -233,7 +233,7 @@
                             </g>
                         </g>
                     </svg>
-                    Thứ 7 <br> Ngày 04/01/2025
+                    Thứ 7 <br> Ngày 08/02/2025
                 </p>
                 <p class="md:text-[16px] text-[12px] font-mulish mb-4 flex items-center">
                     <svg class="w-8 h-8 mr-2 icon" viewBox="0 0 1024 1024" version="1.1"
@@ -270,11 +270,11 @@
                                 fill="#333333"></path>
                         </g>
                     </svg>
-                    Thôn Đồng Luồng, Xuân Phú, Thọ Xuân, Thanh Hóa.
+                  Đội 4 - An Lạc - Yên Khánh - Ý Yên - Nam Định.
                 </p>
                 <div class="flex justify-between md:text-[16px] text-[12px] font-mulish">
                     <button @click="scrollToConfirm" class="hover:bg-blue-600 bg-blue-500 text-white px-4 py-2 rounded">Xác nhận tham dự</button>
-                    <a target="_blank" href="https://maps.app.goo.gl/LB7w6ean9W9Qs1qt5"
+                    <a target="_blank" href="https://maps.app.goo.gl/ADJgTUxMbMxEogcX8"
                         class="hover:bg-green-600 bg-green-500 text-white px-4 py-2 rounded">Xem bản đồ</a>
                 </div>
             </div>
@@ -332,7 +332,7 @@
                             </g>
                         </g>
                     </svg>
-                    Thứ 7 <br> Ngày 04/01/2025
+                    Thứ 7 <br> Ngày 08/01/2025
                 </p>
                 <p class="md:text-[16px] text-[12px] font-mulish mb-4 flex items-center">
                     <svg class="w-8 h-8 mr-2 icon" viewBox="0 0 1024 1024" version="1.1"
@@ -369,11 +369,11 @@
                                 fill="#333333"></path>
                         </g>
                     </svg>
-                    Thôn 16b, Thọ Xương, Thọ Xuân, Thanh Hóa.
+                  Xóm Bồ Đề - Hưng Thượng - Yên Phong - Ý Yên - Nam Định.
                 </p>
                 <div class="flex justify-between md:text-[16px] text-[12px] font-mulish">
                     <button @click="scrollToConfirm" class="hover:bg-blue-600 bg-blue-500 text-white px-4 py-2 rounded">Xác nhận tham dự</button>
-                    <a target="_blank" href="https://maps.app.goo.gl/zwPjqF3UdAaigq687"
+                    <a target="_blank" href="https://maps.app.goo.gl/8SqmTUmR8D3XxjJT6"
                         class="hover:bg-green-600 bg-green-500 text-white px-4 py-2 rounded">Xem bản đồ</a>
                 </div>
             </div>
@@ -432,7 +432,7 @@
                             </g>
                         </g>
                     </svg>
-                    10:00 Chủ Nhật <br> Ngày 05/01/2025
+                    10:00 Chủ Nhật <br> Ngày 09/02/2025
                 </p>
                 <p class="md:text-[16px] text-[12px] font-mulish mb-4 flex items-center">
                     <svg class="w-8 h-8 mr-2 icon" viewBox="0 0 1024 1024" version="1.1"
@@ -469,11 +469,11 @@
                                 fill="#333333"></path>
                         </g>
                     </svg>
-                    Thôn Đồng Luồng, Xuân Phú, Thọ Xuân, Thanh Hóa.
+                  Đội 4 - An Lạc<br> Yên Khánh - Ý Yên - Nam Định.
                 </p>
                 <div class="flex justify-between md:text-[16px] text-[12px] font-mulish">
                     <button @click="scrollToConfirm" class="hover:bg-blue-600 bg-blue-500 text-white px-4 py-2 rounded">Xác nhận tham dự</button>
-                    <a target="_blank" href="https://maps.app.goo.gl/LB7w6ean9W9Qs1qt5"
+                    <a target="_blank" href="https://maps.app.goo.gl/ADJgTUxMbMxEogcX8"
                         class="hover:bg-green-600 bg-green-500 text-white px-4 py-2 rounded">Xem bản đồ</a>
                 </div>
             </div>

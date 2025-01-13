@@ -17,7 +17,7 @@
     <div class="flex justify-center mt-5 px-4">
         <div class="relative w-full max-w-4xl">
             <img class="w-full" src="~/assets/images/wedding.png" alt="">
-            <div class="absolute bottom-[68%] right-[5%]">
+            <div class="absolute bottom-[57%] right-[5%]">
                 <svg class="animate-abc w-5 md:w-10" fill="#ff0000" version="1.1" id="Layer_1"
                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"
                     xml:space="preserve" stroke="#ff0000" transform="rotate(-45)">
@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="text-center mt-5">
-        <p class="font-mulish md:text-lg text-[14px]">10:00 Chủ Nhật, Ngày 05/01/2025 <br>(Tức ngày 06/12 Giáp Thìn)</p>
+        <p class="font-mulish md:text-lg text-[14px]">10:00 Chủ Nhật, Ngày 09/02/2025 <br>(Tức ngày 12/01 Ất Tỵ)</p>
 
         <div class="md:text-5xl text-3xl mt-5 flex justify-center space-x-12">
             <!-- <p class="text-2xl font-bold">Thời gian còn lại:</p> -->
@@ -66,7 +66,7 @@ const countdown = ref({
     minutes: 0,
     seconds: 0,
 });
-const targetDate = new Date('2025-01-05T10:00:00').getTime();
+const targetDate = new Date('2025-02-09T10:00:00').getTime();
 
 const updateCountdown = () => {
     const now = new Date().getTime();
@@ -92,7 +92,7 @@ onUnmounted(() => {
 
 <style scoped>
 .img_bg {
-    background: url('~/assets/images/5.jpg');
+    background: url('~/assets/images/final/4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -3,14 +3,14 @@
         <div class="md:p-6 p-2 m-4 bg-white max-w-3xl mx-auto">
             <form @submit.prevent="submitForm" class="bg-[#f8ebee] font-mulish md:p-10 px-4 py-5 rounded-lg shadow-lg space-y-4">
                 <div class="flex justify-center mb-5">
-                    <img class="md:w-1/3 w-2/3 rounded-full abc" src="~/assets/images/avt.jpg" alt="">
+                    <img class="md:w-1/3 w-2/3 rounded-full abc" src="~/assets/images/final/12.jpg" alt="">
                 </div>
                 <h1
                     class="md:text-5xl text-4xl font-bold mb-4 text-center font-dancing text-[#656363] transition-transform duration-300 hover:scale-110">
                     Xác nhận tham dự
                 </h1>
                 <p class="md:text-lg text-center mb-4">
-                    Xác nhận tham dự đám cưới của Quân & Ngọc. Điều này giúp chúng tôi đón tiếp các bạn chu đáo và đầy
+                    Xác nhận tham dự đám cưới của Trường & Vui. Điều này giúp chúng tôi đón tiếp các bạn chu đáo và đầy
                     đủ hơn. Xin cảm ơn !!!
                 </p>
                 <div class="flex space-x-4">

@@ -77,7 +77,7 @@ const scrollToTop = () => {
   </div>
   <div v-if="!isCloseModal" class="box-welcomeModal">
     <div class="deskripsi-welcomeModal">
-      <div class="subtitle">Anh Quân 💘 Minh Ngọc</div>
+      <div class="subtitle">Nguyễn Trường 💘 Nguyễn Vui</div>
       <div class="title">Trân trọng kính mời
       </div>
       <div class="subtitle-tgl">Ngày 05 tháng 01 năm 2025</div>

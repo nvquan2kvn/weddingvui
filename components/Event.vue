@@ -172,7 +172,7 @@
                       fill="#333333"></path>
                 </g>
               </svg>
-              Xóm Bồ Đề - Hưng Thượng<br> Yên Phong - Ý Yên - Nam Định.
+              Xóm Bồ Đề - Hưng Thượng - Yên Phong - Ý Yên - Nam Định.
             </p>
             <div class="flex justify-between md:text-[16px] text-[12px] font-mulish">
               <button @click="scrollToConfirm" class="hover:bg-blue-600 bg-blue-500 text-white px-4 py-2 rounded">Xác nhận tham dự</button>
@@ -432,7 +432,7 @@
                             </g>
                         </g>
                     </svg>
-                    10:00 Chủ Nhật <br> Ngày 09/02/2025
+                    11:00 Chủ Nhật <br> Ngày 09/02/2025
                 </p>
                 <p class="md:text-[16px] text-[12px] font-mulish mb-4 flex items-center">
                     <svg class="w-8 h-8 mr-2 icon" viewBox="0 0 1024 1024" version="1.1"
@@ -469,7 +469,7 @@
                                 fill="#333333"></path>
                         </g>
                     </svg>
-                  Đội 4 - An Lạc<br> Yên Khánh - Ý Yên - Nam Định.
+                  Đội 4 - An Lạc - Yên Khánh - Ý Yên - Nam Định.
                 </p>
                 <div class="flex justify-between md:text-[16px] text-[12px] font-mulish">
                     <button @click="scrollToConfirm" class="hover:bg-blue-600 bg-blue-500 text-white px-4 py-2 rounded">Xác nhận tham dự</button>

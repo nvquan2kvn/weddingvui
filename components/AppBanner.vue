@@ -62,7 +62,7 @@ const countdown = ref({
     minutes: 0,
     seconds: 0,
 });
-const targetDate = new Date('2025-02-09T10:00:00').getTime();
+const targetDate = new Date('2025-02-09T11:00:00').getTime();
 
 // Scroll to Guestbook section
 const guestbookSection = ref<HTMLElement | null>(null);

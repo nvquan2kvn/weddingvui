@@ -39,8 +39,8 @@ function createHeart1() {
 }
 
 onMounted(() => {
-  const intervalId1 = setInterval(createHeart1, 700);
-  const intervalId2 = setInterval(createHeart2, 700);
+  const intervalId1 = setInterval(createHeart1, 3000);
+  const intervalId2 = setInterval(createHeart2, 3000);
 
   onUnmounted(() => {
     clearInterval(intervalId1);

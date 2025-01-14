@@ -270,7 +270,7 @@ body {
   font-family: "Sacramento", cursive;
   font-weight: 200;
   font-style: normal;
-  font-size: xx-large;
+  font-size: x-large;
 }
 
 .coverImg {

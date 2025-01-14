@@ -42,7 +42,7 @@
         </div>
     </div>
     <div class="text-center mt-5">
-        <p class="font-mulish md:text-lg text-[14px]">10:00 Chủ Nhật, Ngày 09/02/2025 <br>(Tức ngày 12/01 Ất Tỵ)</p>
+        <p class="font-mulish md:text-lg text-[14px]">11:00 Chủ Nhật, Ngày 09/02/2025 <br>(Tức ngày 12/01 Ất Tỵ)</p>
 
         <div class="md:text-5xl text-3xl mt-5 flex justify-center space-x-12">
             <!-- <p class="text-2xl font-bold">Thời gian còn lại:</p> -->

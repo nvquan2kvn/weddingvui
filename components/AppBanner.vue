@@ -31,7 +31,7 @@
             <h1 class="md:text-8xl text-6xl font-bold text-[yellow] transition-transform duration-300 hover:scale-110 font-dancing">
                 Happy Wedding
             </h1>
-            <h3 class="md:text-6xl text-4xl mt-2 transition-transform duration-300 hover:scale-110 font-dancing">
+            <h3 class="md:text-5xl text-3xl mt-2 transition-transform duration-300 hover:scale-110 font-dancing">
                 Nguyễn Trường & Nguyễn Vui
             </h3>
             <p class="md:text-lg text-[14px] mt-10 font-mulish md:font-bold">08/02/2025 Nhà Gái - 09/02/2025 Nhà Trai</p>

@@ -104,6 +104,7 @@ const scrollToTop = () => {
   <PhotoCollection />
   <Schedule />
   <Info />
+  <Qr />
   <Thanks />
 
   <!-- Nút bật/tắt nhạc -->

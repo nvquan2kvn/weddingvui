@@ -49,6 +49,9 @@
                 <button @click="scrollToConfirm" class="bg-white text-black md:px-4 px-2 py-1 md:py-2 rounded transition-transform hover:scale-110 duration-300">
                     Xác nhận tham dự
                 </button>
+                <button @click="scrollToQr" class="bg-white text-black md:px-4 px-2 py-1 md:py-2 rounded transition-transform hover:scale-110 duration-300">
+                  Mừng cưới
+                </button>
             </div>
         </div>
     </div>

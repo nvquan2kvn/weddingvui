@@ -190,21 +190,21 @@
                     class="text-4xl font-bold text-center font-dancing drop-shadow-lg transition-transform duration-300 hover:scale-110">
                     Hộp mừng cưới</h1>
                 <p class="text-center my-5">Vợ chồng xin cảm ơn tất cả tình cảm của mọi người ạ ♥</p>
-                <div class="grid grid-cols-2 gap-4">
+                <div class="grid grid-cols-1 gap-4">
+<!--                    <div class="border rounded-lg">-->
+<!--&lt;!&ndash;                        <h1 class="font-sans uppercase md:text-lg text-center my-2">Mừng cưới đến chú rể</h1>&ndash;&gt;-->
+<!--                        <img src="~/assets/images/qr-code.jpg" alt="QR Code" class="mx-auto mb-4">-->
+<!--                        <div class="flex flex-col md:flex-row justify-between p-2 text-center md:text-sm text-[12px]">-->
+<!--                            <button @click="downloadImage('qr-code.jpg')" class="bg-[#dedede] px-4 md:py-2 py-1 rounded-2xl mb-2 md:mb-0">Tải ảnh QR</button>-->
+<!--                            <button @click="copyToClipboard('05867357601')" class="bg-[#dedede] px-4 md:py-2 py-1 rounded-2xl">Copy STK</button>-->
+<!--                        </div>-->
+<!--                    </div>-->
                     <div class="border rounded-lg">
-                        <h1 class="font-sans uppercase md:text-lg text-center my-2">Mừng cưới đến chú rể</h1>
-                        <img src="~/assets/images/qr-code.jpg" alt="QR Code" class="mx-auto mb-4">
+<!--                        <h1 class="font-sans uppercase md:text-lg text-center my-2">Mừng cưới đến cô dâu</h1>-->
+                        <img src="~/assets/images/qr-code.jpg" alt="QR Code" class="mx-auto mb-4" height="300" width="300">
                         <div class="flex flex-col md:flex-row justify-between p-2 text-center md:text-sm text-[12px]">
                             <button @click="downloadImage('qr-code.jpg')" class="bg-[#dedede] px-4 md:py-2 py-1 rounded-2xl mb-2 md:mb-0">Tải ảnh QR</button>
-                            <button @click="copyToClipboard('2152512861')" class="bg-[#dedede] px-4 md:py-2 py-1 rounded-2xl">Copy STK</button>
-                        </div>
-                    </div>
-                    <div class="border rounded-lg">
-                        <h1 class="font-sans uppercase md:text-lg text-center my-2">Mừng cưới đến cô dâu</h1>
-                        <img src="~/assets/images/qr-code.jpg" alt="QR Code" class="mx-auto mb-4">
-                        <div class="flex flex-col md:flex-row justify-between p-2 text-center md:text-sm text-[12px]">
-                            <button @click="downloadImage('qr-code.jpg')" class="bg-[#dedede] px-4 md:py-2 py-1 rounded-2xl mb-2 md:mb-0">Tải ảnh QR</button>
-                            <button @click="copyToClipboard('2152512861')" class="bg-[#dedede] px-4 md:py-2 py-1 rounded-2xl">Copy STK</button>
+                            <button @click="copyToClipboard('05867357601')" class="bg-[#dedede] px-4 md:py-2 py-1 rounded-2xl">Copy STK</button>
                         </div>
                     </div>
                 </div>
@@ -286,7 +286,7 @@ const downloadImage = (namQrImage: string) => {
 }
 
 .bg-box {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('~/assets/images/bg-box.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('~/assets/images/1.jpg');
     background-size: cover;
     background-origin: content-box;
     background-position: 50% 12%;
